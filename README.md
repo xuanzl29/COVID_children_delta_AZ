@@ -23,6 +23,21 @@ FullAZCDCData_0_17Only_Updated.csv is the csv file from only 0-17 age group. The
 4. Observations from August 2020 to October 2020 are treated as non-Delta variants (that exist previous to Delta). Same months are chosen comparing to the Delta group to control the weather and flu season as factors that could effect COVID.
 5. Vaccinations cannot be factored out since the related information isn't provided by the dataset. 
 
+# Technology and Packages:
+Python 3
+
+Jupyter Notebook: For code development and results presentation.
+
+Google Colab: For teamwork activities and sharing.
+
+pandas: Python package for data analysis.
+numpy: Python package for using arrays.
+matplotlib.pyplot: Python package for data visulization.
+seaborn:Python package for data visulization.
+scipy.stats: Python package for computing.
+datetime: Python package for transferring object type to datetime.
+
+
 # Resources and Credits:
 
 Data source: https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4/data.
