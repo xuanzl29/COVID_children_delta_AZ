@@ -31,10 +31,15 @@ Jupyter Notebook: For code development and results presentation.
 Google Colab: For teamwork activities and sharing.
 
 pandas: Python package for data analysis.
+
 numpy: Python package for using arrays.
+
 matplotlib.pyplot: Python package for data visulization.
+
 seaborn:Python package for data visulization.
+
 scipy.stats: Python package for computing.
+
 datetime: Python package for transferring object type to datetime.
 
 
